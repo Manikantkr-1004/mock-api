@@ -1,41 +1,92 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },{"author": "Adnan Juzar Kachwala",
-            "title": "Valorant Player Count 2023: How Many People Play Riot's FPS in 2023? - The Sportsrush",
-            "description": "Valorant's player count is at the highest right now in 2023! In comparison to last year, the player count has increased by millions.",
-            "url": "https://thesportsrush.com/valorant-player-count-2023-how-many-people-play-riots-fps-in-2023/",
-            "urlToImage": "https://cdn-wp.thesportsrush.com/2023/05/e38f42fe-valorant-listing-800x450-1.jpg",
-            "publishedAt": "2023-05-02T07:40:00Z",
-            "content": "Valorant has gotten critical acclaim in the three years it has been out and continues to improve itself. Riot has a lot of passion for the characters they make and continue to improve and extend the … [+2385 chars]"
-        }
-    ]
-  }
+  "users": [
+    {
+      "name": "Chandra",
+      "age": 29,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-13",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "Manikant Kumar",
+      "age": "18",
+      "place": "Bihar",
+      "batch_name": "WEB-16",
+      "profession": "Student",
+      "id": 3
+    },
+    {
+      "name": "Anushka",
+      "age": "21",
+      "place": "Aurangabad",
+      "batch_name": "WEB-14",
+      "profession": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "Iphone 12",
+      "age": "67",
+      "place": "Patna",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "name": "Prakash",
+      "age": "22",
+      "place": "Nalanda",
+      "batch_name": "WEB-14",
+      "profession": "Frontend",
+      "id": 7
+    },
+    {
+      "name": "abhishekl",
+      "age": "34",
+      "place": "aurangabad",
+      "batch_name": "WEB-14",
+      "profession": "Frontend",
+      "id": 8
+    },
+    {
+      "name": "Vijay",
+      "age": "22",
+      "place": "Banaras",
+      "batch_name": "WEB-15",
+      "profession": "Frontend",
+      "id": 9
+    },
+    {
+      "name": "pragati",
+      "age": "34",
+      "place": "aurangabad",
+      "batch_name": "WEB-14",
+      "profession": "Frontend",
+      "id": 10
+    },
+    {
+      "name": "Vivek",
+      "age": "54",
+      "place": "ranchy",
+      "batch_name": "WEB-16",
+      "profession": "Backend",
+      "id": 11
+    },
+    {
+      "name": "rinki",
+      "age": "34",
+      "place": "aurangabad",
+      "batch_name": "WEB-14",
+      "profession": "Student",
+      "id": 12
+    },
+    {
+      "name": "Rupesh",
+      "age": "65",
+      "place": "Barun",
+      "batch_name": "WEB-13",
+      "profession": "Backend",
+      "id": 13
+    }
+  ]
+}
